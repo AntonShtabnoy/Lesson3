@@ -1,4 +1,4 @@
-package by.shtabnoy.lesson1;
+package by.shtabnoy.lesson1.task1;
 
 public class Main {
 
